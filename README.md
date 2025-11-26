@@ -13,7 +13,7 @@ The **LLC** folder includes assets for the main STiBaRC, LLC company itself, est
 
 ### Records
 
-The **records** folder includes assets used for STiBaRC Records, established in early 2020. In 2021, the STiBaRC Records branding was refreshed using assets from STiBaRC's scrapped 2020 redesign.
+The **records** folder includes assets used for STiBaRC Records, established in early 2020. The current STiBaRC Records branding uses assets from STiBaRC's scrapped 2020 redesign; the "S" logo designed by Isaac Shea.
 
 ### STiBaRC
 
